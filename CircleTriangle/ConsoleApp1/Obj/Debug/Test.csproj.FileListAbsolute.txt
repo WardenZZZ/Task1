@@ -1,0 +1,10 @@
+C:\Users\WardenZZZ\source\repos\CircleTriangle\ConsoleApp1\bin\Debug\Test.exe.config
+C:\Users\WardenZZZ\source\repos\CircleTriangle\ConsoleApp1\bin\Debug\Test.exe
+C:\Users\WardenZZZ\source\repos\CircleTriangle\ConsoleApp1\bin\Debug\Test.pdb
+C:\Users\WardenZZZ\source\repos\CircleTriangle\ConsoleApp1\bin\Debug\CircleTriangle.dll
+C:\Users\WardenZZZ\source\repos\CircleTriangle\ConsoleApp1\bin\Debug\CircleTriangle.pdb
+C:\Users\WardenZZZ\source\repos\CircleTriangle\ConsoleApp1\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\WardenZZZ\source\repos\CircleTriangle\ConsoleApp1\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\WardenZZZ\source\repos\CircleTriangle\ConsoleApp1\obj\Debug\Test.csproj.CopyComplete
+C:\Users\WardenZZZ\source\repos\CircleTriangle\ConsoleApp1\obj\Debug\Test.exe
+C:\Users\WardenZZZ\source\repos\CircleTriangle\ConsoleApp1\obj\Debug\Test.pdb
