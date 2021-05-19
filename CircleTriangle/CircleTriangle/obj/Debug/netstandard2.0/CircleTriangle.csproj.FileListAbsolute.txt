@@ -1,0 +1,9 @@
+C:\Users\WardenZZZ\source\repos\CircleTriangle\CircleTriangle\bin\Debug\netstandard2.0\CircleTriangle.deps.json
+C:\Users\WardenZZZ\source\repos\CircleTriangle\CircleTriangle\bin\Debug\netstandard2.0\CircleTriangle.dll
+C:\Users\WardenZZZ\source\repos\CircleTriangle\CircleTriangle\bin\Debug\netstandard2.0\CircleTriangle.pdb
+C:\Users\WardenZZZ\source\repos\CircleTriangle\CircleTriangle\obj\Debug\netstandard2.0\CircleTriangle.csprojAssemblyReference.cache
+C:\Users\WardenZZZ\source\repos\CircleTriangle\CircleTriangle\obj\Debug\netstandard2.0\CircleTriangle.AssemblyInfoInputs.cache
+C:\Users\WardenZZZ\source\repos\CircleTriangle\CircleTriangle\obj\Debug\netstandard2.0\CircleTriangle.AssemblyInfo.cs
+C:\Users\WardenZZZ\source\repos\CircleTriangle\CircleTriangle\obj\Debug\netstandard2.0\CircleTriangle.csproj.CoreCompileInputs.cache
+C:\Users\WardenZZZ\source\repos\CircleTriangle\CircleTriangle\obj\Debug\netstandard2.0\CircleTriangle.dll
+C:\Users\WardenZZZ\source\repos\CircleTriangle\CircleTriangle\obj\Debug\netstandard2.0\CircleTriangle.pdb
