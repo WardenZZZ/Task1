@@ -11,19 +11,19 @@ CREATE TABLE ProductCategory (
 	CategoryId int foreign key references Category(id)
 	);
 INSERT INTO Product VALUES
-	(1, 'Карамель'),
-	(2, 'Зефир'),
-	(3, 'Стиральный порошок'),
-	(4, 'Колбаса');
+	(1, 'РљР°СЂР°РјРµР»СЊ'),
+	(2, 'Р—РµС„РёСЂ'),
+	(3, 'РЎС‚РёСЂР°Р»СЊРЅС‹Р№ РїРѕСЂРѕС€РѕРє'),
+	(4, 'РљРѕР»Р±Р°СЃР°');
 INSERT INTO Category VALUES
-	(1, 'Кондитерские товары'),
-	(2, 'Хлебобулочные изделия'),
-	(3, 'Бытовая химия');
+	(1, 'РљРѕРЅРґРёС‚РµСЂСЃРєРёРµ С‚РѕРІР°СЂС‹'),
+	(2, 'РҐР»РµР±РѕР±СѓР»РѕС‡РЅС‹Рµ РёР·РґРµР»РёСЏ'),
+	(3, 'Р‘С‹С‚РѕРІР°СЏ С…РёРјРёСЏ');
 INSERT INTO ProductCategory VALUES
 	(1, 1),
 	(2, 1),
-	(3,	3);
-SELECT prdct.Name as 'Название продукта', ctgr.Name as 'Категория продукта'
+	(3, 3);
+SELECT prdct.Name as 'РќР°Р·РІР°РЅРёРµ РїСЂРѕРґСѓРєС‚Р°', ctgr.Name as 'РљР°С‚РµРіРѕСЂРёСЏ РїСЂРѕРґСѓРєС‚Р°'
 FROM Product prdct
 LEFT JOIN ProductCategory prdctCtgr
 ON prdct.id = prdctCtgr.ProductId
