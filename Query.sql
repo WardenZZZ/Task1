@@ -18,7 +18,7 @@ INSERT INTO Product VALUES
 INSERT INTO Category VALUES
 	(1, 'Кондитерские товары'),
 	(2, 'Хлебобулочные изделия'),
-	(3, 'Бытовая химия'); 
+	(3, 'Бытовая химия');
 INSERT INTO ProductCategory VALUES
 	(1, 1),
 	(2, 1),
